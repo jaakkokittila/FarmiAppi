@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/FarmiAppi/static/css/main.eb0149a0.chunk.css",
-    "main.js": "/FarmiAppi/static/js/main.e33780e9.chunk.js",
-    "main.js.map": "/FarmiAppi/static/js/main.e33780e9.chunk.js.map",
+    "main.css": "/FarmiAppi/static/css/main.42f9eb9e.chunk.css",
+    "main.js": "/FarmiAppi/static/js/main.e36cdd60.chunk.js",
+    "main.js.map": "/FarmiAppi/static/js/main.e36cdd60.chunk.js.map",
     "runtime-main.js": "/FarmiAppi/static/js/runtime-main.27534b2f.js",
     "runtime-main.js.map": "/FarmiAppi/static/js/runtime-main.27534b2f.js.map",
     "static/css/2.47e06e2e.chunk.css": "/FarmiAppi/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.c559b6d6.chunk.js": "/FarmiAppi/static/js/2.c559b6d6.chunk.js",
-    "static/js/2.c559b6d6.chunk.js.map": "/FarmiAppi/static/js/2.c559b6d6.chunk.js.map",
+    "static/js/2.b8f2987b.chunk.js": "/FarmiAppi/static/js/2.b8f2987b.chunk.js",
+    "static/js/2.b8f2987b.chunk.js.map": "/FarmiAppi/static/js/2.b8f2987b.chunk.js.map",
     "index.html": "/FarmiAppi/index.html",
-    "precache-manifest.155e21b518188c253ab2da9ac5adbde8.js": "/FarmiAppi/precache-manifest.155e21b518188c253ab2da9ac5adbde8.js",
+    "precache-manifest.397b671f924879bf50f8144aff7866ec.js": "/FarmiAppi/precache-manifest.397b671f924879bf50f8144aff7866ec.js",
     "service-worker.js": "/FarmiAppi/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/FarmiAppi/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.eb0149a0.chunk.css.map": "/FarmiAppi/static/css/main.eb0149a0.chunk.css.map",
-    "static/js/2.c559b6d6.chunk.js.LICENSE": "/FarmiAppi/static/js/2.c559b6d6.chunk.js.LICENSE",
+    "static/css/main.42f9eb9e.chunk.css.map": "/FarmiAppi/static/css/main.42f9eb9e.chunk.css.map",
+    "static/js/2.b8f2987b.chunk.js.LICENSE": "/FarmiAppi/static/js/2.b8f2987b.chunk.js.LICENSE",
     "static/media/header.jpg": "/FarmiAppi/static/media/header.57982727.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.27534b2f.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.c559b6d6.chunk.js",
-    "static/css/main.eb0149a0.chunk.css",
-    "static/js/main.e33780e9.chunk.js"
+    "static/js/2.b8f2987b.chunk.js",
+    "static/css/main.42f9eb9e.chunk.css",
+    "static/js/main.e36cdd60.chunk.js"
   ]
 }

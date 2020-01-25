@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "513e37376e91dab96c9e0198186c47ba",
+    "revision": "b1df45bf28f172c811239c30866037cd",
     "url": "/FarmiAppi/index.html"
   },
   {
-    "revision": "d08f63dc1d93b096bb80",
+    "revision": "7c16d058af337edd625a",
     "url": "/FarmiAppi/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "a39a72d537892edda0d4",
-    "url": "/FarmiAppi/static/css/main.eb0149a0.chunk.css"
+    "revision": "3a76de42a538d795d3f0",
+    "url": "/FarmiAppi/static/css/main.42f9eb9e.chunk.css"
   },
   {
-    "revision": "d08f63dc1d93b096bb80",
-    "url": "/FarmiAppi/static/js/2.c559b6d6.chunk.js"
+    "revision": "7c16d058af337edd625a",
+    "url": "/FarmiAppi/static/js/2.b8f2987b.chunk.js"
   },
   {
     "revision": "f032203ca460334c00de541c30a6078a",
-    "url": "/FarmiAppi/static/js/2.c559b6d6.chunk.js.LICENSE"
+    "url": "/FarmiAppi/static/js/2.b8f2987b.chunk.js.LICENSE"
   },
   {
-    "revision": "a39a72d537892edda0d4",
-    "url": "/FarmiAppi/static/js/main.e33780e9.chunk.js"
+    "revision": "3a76de42a538d795d3f0",
+    "url": "/FarmiAppi/static/js/main.e36cdd60.chunk.js"
   },
   {
     "revision": "957530d1e1bede68df77",
