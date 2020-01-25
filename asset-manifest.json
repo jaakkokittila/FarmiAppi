@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FarmiAppi/static/css/main.eb0149a0.chunk.css",
-    "main.js": "/FarmiAppi/static/js/main.13ae525e.chunk.js",
-    "main.js.map": "/FarmiAppi/static/js/main.13ae525e.chunk.js.map",
+    "main.js": "/FarmiAppi/static/js/main.e33780e9.chunk.js",
+    "main.js.map": "/FarmiAppi/static/js/main.e33780e9.chunk.js.map",
     "runtime-main.js": "/FarmiAppi/static/js/runtime-main.27534b2f.js",
     "runtime-main.js.map": "/FarmiAppi/static/js/runtime-main.27534b2f.js.map",
     "static/css/2.47e06e2e.chunk.css": "/FarmiAppi/static/css/2.47e06e2e.chunk.css",
     "static/js/2.c559b6d6.chunk.js": "/FarmiAppi/static/js/2.c559b6d6.chunk.js",
     "static/js/2.c559b6d6.chunk.js.map": "/FarmiAppi/static/js/2.c559b6d6.chunk.js.map",
     "index.html": "/FarmiAppi/index.html",
-    "precache-manifest.e8885007d715c7727b8b5a67156b0bc4.js": "/FarmiAppi/precache-manifest.e8885007d715c7727b8b5a67156b0bc4.js",
+    "precache-manifest.155e21b518188c253ab2da9ac5adbde8.js": "/FarmiAppi/precache-manifest.155e21b518188c253ab2da9ac5adbde8.js",
     "service-worker.js": "/FarmiAppi/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/FarmiAppi/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.eb0149a0.chunk.css.map": "/FarmiAppi/static/css/main.eb0149a0.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.c559b6d6.chunk.js",
     "static/css/main.eb0149a0.chunk.css",
-    "static/js/main.13ae525e.chunk.js"
+    "static/js/main.e33780e9.chunk.js"
   ]
 }

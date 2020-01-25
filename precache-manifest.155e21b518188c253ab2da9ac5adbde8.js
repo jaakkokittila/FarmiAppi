@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e42ef171ae69393de7c35a755a0e96a",
+    "revision": "513e37376e91dab96c9e0198186c47ba",
     "url": "/FarmiAppi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FarmiAppi/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "c1c0d2a0cbbf2f6bda75",
+    "revision": "a39a72d537892edda0d4",
     "url": "/FarmiAppi/static/css/main.eb0149a0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FarmiAppi/static/js/2.c559b6d6.chunk.js.LICENSE"
   },
   {
-    "revision": "c1c0d2a0cbbf2f6bda75",
-    "url": "/FarmiAppi/static/js/main.13ae525e.chunk.js"
+    "revision": "a39a72d537892edda0d4",
+    "url": "/FarmiAppi/static/js/main.e33780e9.chunk.js"
   },
   {
     "revision": "957530d1e1bede68df77",
