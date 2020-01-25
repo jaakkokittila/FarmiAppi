@@ -68,7 +68,7 @@ const PriceForm = () => {
             <div className="results">
                 <h1>Arvioidut kustannukset</h1>
                 <p>Näillä arvoilla marjoja tulee {berries} kg, {costs}€ hintaan.</p>
-                <p>Minimikilohinnaksi muodostuu siis {costs / berries}€/kg </p>
+                <p>Minimikilohinnaksi muodostuu siis <b>{costs / berries}€/kg</b> </p>
                 <Button variant="primary" onClick={() => setForm(true)}>Laske uusi</Button>
             </div>
         )
