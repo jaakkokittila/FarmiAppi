@@ -10,10 +10,10 @@ const PriceForm = () => {
     const [berries, setBerries] = useState(0)
     const [costs, setCosts] = useState(0)
 
-    const handleSubmit = () => {
+    const handleSubmit = (e) => {
+       e.preventDefault()
+       
 
-        event.preventDefault()
-        
         if(fertilizer === 'Superlannoite'){
             setCosts(2500 + lights * 45 + hours * 25)
             setBerries(Math.floor(2000 * Math.pow(1.15, lights - 1) + (hours - 20) * 28))
