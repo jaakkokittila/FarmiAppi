@@ -7,7 +7,7 @@ const App = () => {
   return(
     <div id="app">
       <Header />
-      <div id="formdiv">
+      <div>
         <PriceForm />
       </div>
       

@@ -24,6 +24,11 @@ body {
   padding-top: 7.5em;
   padding-bottom: 7.5em;
 }
+.alert{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
 #formdiv {
   width: 80%;
@@ -32,7 +37,7 @@ body {
   border-radius: 2em;
   background-color: white;
   height: 25em;
-  vertical-align: middle;
+  
 }
 #app {
   background-color: #e6fff2;
